@@ -1,0 +1,55 @@
+model epoch: 0 | policy epoch: 0 | mean return: 15.376 | state error: 7.40 | reward error: 1.56 | total steps: 8 | Done
+model epoch: 0 | policy epoch: 20 | mean return: -1.797 | state error: 9.14 | reward error: 1.69 | total steps: 8 | Done
+model epoch: 0 | policy epoch: 40 | mean return: -3.363 | state error: 6.99 | reward error: 1.81 | total steps: 10 | Done
+model epoch: 0 | policy epoch: 60 | mean return: -2.930 | state error: 7.36 | reward error: 1.71 | total steps: 11 | Done
+model epoch: 0 | policy epoch: 80 | mean return: -2.483 | state error: 7.53 | reward error: 1.60 | total steps: 12 | Done
+model epoch: 0 | policy epoch: 100 | mean return: -3.813 | state error: 5.89 | reward error: 1.76 | total steps: 9 | Done
+model epoch: 0 | policy epoch: 120 | mean return: -2.462 | state error: 6.50 | reward error: 1.69 | total steps: 9 | Done
+dynamics_model_20 loaded
+model epoch: 20 | policy epoch: 0 | mean return: 32.619 | state error: 41.28 | reward error: 2.74 | total steps: 52 | Done
+model epoch: 20 | policy epoch: 20 | mean return: -1.529 | state error: 12.01 | reward error: 1.81 | total steps: 72 | Done
+model epoch: 20 | policy epoch: 40 | mean return: -10.381 | state error: 44.99 | reward error: 6.92 | total steps: 7 | Done
+model epoch: 20 | policy epoch: 60 | mean return: -11.723 | state error: 23.08 | reward error: 5.00 | total steps: 9 | Done
+model epoch: 20 | policy epoch: 80 | mean return: -6.734 | state error: 25.74 | reward error: 2.24 | total steps: 7 | Done
+model epoch: 20 | policy epoch: 100 | mean return: -10.427 | state error: 22.99 | reward error: 4.46 | total steps: 8 | Done
+model epoch: 20 | policy epoch: 120 | mean return: 97.931 | state error: 27.16 | reward error: 4.05 | total steps: 8 | Done
+dynamics_model_40 loaded
+model epoch: 40 | policy epoch: 0 | mean return: 170.592 | state error: 10.60 | reward error: 2.12 | total steps: 109 | Done
+model epoch: 40 | policy epoch: 20 | mean return: 268.297 | state error: 52.41 | reward error: 4.57 | total steps: 177 | Done
+model epoch: 40 | policy epoch: 40 | mean return: 92.194 | state error: 43.49 | reward error: 4.65 | total steps: 182 | Done
+model epoch: 40 | policy epoch: 60 | mean return: -6.383 | state error: 8.96 | reward error: 1.18 | total steps: 22 | Done
+model epoch: 40 | policy epoch: 80 | mean return: 370.266 | state error: 43.38 | reward error: 7.04 | total steps: 319 | Done
+model epoch: 40 | policy epoch: 100 | mean return: -6.101 | state error: 15.03 | reward error: 1.68 | total steps: 17 | Done
+model epoch: 40 | policy epoch: 120 | mean return: 861.132 | state error: 32.64 | reward error: 6.09 | total steps: 275 | Done
+dynamics_model_60 loaded
+model epoch: 60 | policy epoch: 0 | mean return: 137.156 | state error: 2.88 | reward error: 0.59 | total steps: 88 | Done
+model epoch: 60 | policy epoch: 20 | mean return: 631.821 | state error: 47.22 | reward error: 6.76 | total steps: 203 | Done
+model epoch: 60 | policy epoch: 40 | mean return: 670.046 | state error: 36.45 | reward error: 6.75 | total steps: 295 | Done
+model epoch: 60 | policy epoch: 60 | mean return: 1156.183 | state error: 51.07 | reward error: 7.46 | total steps: 350 | Done
+model epoch: 60 | policy epoch: 80 | mean return: 2106.588 | state error: 46.75 | reward error: 7.20 | total steps: 316 | Done
+model epoch: 60 | policy epoch: 100 | mean return: 22.969 | state error: 1.96 | reward error: 0.71 | total steps: 54 | Done
+model epoch: 60 | policy epoch: 120 | mean return: 3228.283 | state error: 45.03 | reward error: 7.56 | total steps: 874 | Done
+dynamics_model_80 loaded
+model epoch: 80 | policy epoch: 0 | mean return: 130.048 | state error: 0.91 | reward error: 0.36 | total steps: 80 | Done
+model epoch: 80 | policy epoch: 20 | mean return: 828.013 | state error: 39.09 | reward error: 5.61 | total steps: 238 | Done
+model epoch: 80 | policy epoch: 40 | mean return: 1172.042 | state error: 32.84 | reward error: 6.28 | total steps: 307 | Done
+model epoch: 80 | policy epoch: 60 | mean return: 3504.400 | state error: 34.46 | reward error: 5.22 | total steps: 1000 | Done
+model epoch: 80 | policy epoch: 80 | mean return: 3447.990 | state error: 41.83 | reward error: 6.11 | total steps: 1000 | Done
+model epoch: 80 | policy epoch: 100 | mean return: 3542.498 | state error: 43.63 | reward error: 6.65 | total steps: 1000 | Done
+model epoch: 80 | policy epoch: 120 | mean return: 3528.224 | state error: 54.15 | reward error: 6.33 | total steps: 1000 | Done
+dynamics_model_100 loaded
+model epoch: 100 | policy epoch: 0 | mean return: 156.650 | state error: 0.17 | reward error: 0.02 | total steps: 80 | Done
+model epoch: 100 | policy epoch: 20 | mean return: 856.273 | state error: 26.06 | reward error: 4.83 | total steps: 243 | Done
+model epoch: 100 | policy epoch: 40 | mean return: 3520.566 | state error: 46.13 | reward error: 6.66 | total steps: 1000 | Done
+model epoch: 100 | policy epoch: 60 | mean return: 3530.155 | state error: 53.50 | reward error: 7.97 | total steps: 1000 | Done
+model epoch: 100 | policy epoch: 80 | mean return: 3579.789 | state error: 44.30 | reward error: 6.35 | total steps: 1000 | Done
+model epoch: 100 | policy epoch: 100 | mean return: 3477.969 | state error: 32.17 | reward error: 5.51 | total steps: 1000 | Done
+model epoch: 100 | policy epoch: 120 | mean return: 3475.523 | state error: 37.98 | reward error: 5.73 | total steps: 1000 | Done
+dynamics_model_120 loaded
+model epoch: 120 | policy epoch: 0 | mean return: 157.116 | state error: 0.12 | reward error: 0.00 | total steps: 77 | Done
+model epoch: 120 | policy epoch: 20 | mean return: 1021.377 | state error: 41.06 | reward error: 2.39 | total steps: 287 | Done
+model epoch: 120 | policy epoch: 40 | mean return: 2620.169 | state error: 38.11 | reward error: 3.35 | total steps: 375 | Done
+model epoch: 120 | policy epoch: 60 | mean return: 3386.860 | state error: 61.25 | reward error: 6.21 | total steps: 1000 | Done
+model epoch: 120 | policy epoch: 80 | mean return: 3441.146 | state error: 54.25 | reward error: 5.60 | total steps: 1000 | Done
+model epoch: 120 | policy epoch: 100 | mean return: 3468.620 | state error: 53.58 | reward error: 6.05 | total steps: 1000 | Done
+model epoch: 120 | policy epoch: 120 | mean return: 3460.696 | state error: 56.73 | reward error: 6.74 | total steps: 1000 | Done

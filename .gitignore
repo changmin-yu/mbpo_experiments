@@ -1,0 +1,7 @@
+data
+.idea
+*__pycache__*
+save_dir/
+mbpo_savedir
+tensorboard/
+test_policy_dependent_results*/
